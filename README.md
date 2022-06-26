@@ -1,5 +1,15 @@
 Hi 👋 My name is Justin Homme
-=============================Computer Engineering Student----------------------------I am studying Computer Engineering at Bethel University, St. Paul. I am currently working as a Software Engineering Intern at Benchmark Electronics. I enjoy back-end and full-stack development as well as integrated systems and electronics.* 🌍  I'm based in Rochester, MN* ✉️  You can contact me at [justinhomme3@gmail.com](mailto:justinhomme3@gmail.com)* 🧠  I'm learning C# and the .NET framework* ⚡  I prefer Linux and use it over Windows and MacOS whenever possible
+=============================
+
+Computer Engineering Student
+----------------------------
+
+I am studying Computer Engineering at Bethel University, St. Paul. I am currently working as a Software Engineering Intern at Benchmark Electronics. I enjoy back-end and full-stack development as well as integrated systems and electronics.
+
+*   🌍  I'm based in Rochester, MN
+*   ✉️  You can contact me at [justinhomme3@gmail.com](mailto:justinhomme3@gmail.com)
+*   🧠  I'm learning C# and the .NET framework
+*   ⚡  I prefer Linux and use it over Windows and MacOS whenever possible
 
 ### Skills
 
